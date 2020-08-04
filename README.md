@@ -30,6 +30,12 @@
 	<img title="Redux-Saga" src="https://raw.githubusercontent.com/gkubiak92/gkubiak92/master/assets/logos/redux-saga.svg" height="40" />
 </p>
 
+## Testing libraries
+<p align="left">
+	<img title="Jest" src="https://raw.githubusercontent.com/gkubiak92/gkubiak92/master/assets/logos/jest.svg" height="40" />
+	<img title="React Testing Library" src="https://raw.githubusercontent.com/gkubiak92/gkubiak92/master/assets/logos/react-testing-library.png" height="40" />
+</p>
+
 ## Mobile
 <p align="left">
 	<img title="Flutter" src="https://raw.githubusercontent.com/gkubiak92/gkubiak92/master/assets/logos/flutter.svg" height="40" />
